@@ -1,0 +1,41 @@
+#recipes 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stuffed Pepper</title>
+</head>
+<body>
+    <h1>Stuffed Pepper</h1>
+
+<a href="recipes/stuffed-pepper.html">Stuffed Peppers</a>
+<img src="/Image/stuffed pepper.jpeg">
+<br>
+<h3>Description</h3>
+<p>If you're looking for a filling meal that will satisfy everyone at 
+    your table, you've come to the right place. The Allrecipes community 
+    loves this top-rated stuffed pepper recipe — reviewers say it's "delicious," "easy," 
+    and "full of flavor."</p>
+<p>Making classic stuffed bell peppers is easier than you think. </p>
+
+<h3>Ingredient</h3>
+<ul>
+    <li>Rice</li>
+    <li>Beef</li>
+    <li>Pepper</li>
+    <li></li>
+</ul>
+
+<h3>Steps</h3>
+<ol>
+    <li>Prepare the Rice and Beef</li>
+    <li>Stuff the Peppers</li>
+    <li>Bake</li>
+
+</ol>
+
+</body>
+</html>
+</body>
+</html>
